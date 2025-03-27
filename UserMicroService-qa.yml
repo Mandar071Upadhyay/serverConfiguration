@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
-    email: "smitha@eazybank.com"
+    email: "{cipher}6f27f5ad70c046b19608ac253f34185e4a505978692979979eeae1b93603fe26f344a7ba7970fb8212cd639bb37c8dfc"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
